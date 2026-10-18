@@ -2,25 +2,25 @@
 # 51 GAME WINGO ADAPTIVE PATTERN FUSION ENGINE (APFE) PERFORMANCE AUDIT
 # Strict empirical evaluation over genuine settled rounds.
 # ==========================================================================
-Report Timestamp: 2026-10-18T14:25:09.734Z
+Report Timestamp: 2026-10-18T14:26:09.891Z
 Model Name: Adaptive Pattern Fusion Engine (APFE)
 Model Version: v2.4-APFE
 Evaluation Methodology: Rolling Sequential Walk-Forward Out-of-Sample
 
 --- CORE PERFORMANCE METRICS ---
-Total Evaluated Forecasts: 415
+Total Evaluated Forecasts: 416
 Total Correct (Wins): 216
-Total Incorrect (Losses): 199
-Empirical Accuracy: 52.05%
+Total Incorrect (Losses): 200
+Empirical Accuracy: 51.92%
 Theoretical Bernoulli Baseline: 50.00%
 Empirical Brier Score: 0.2696 (Uniform Baseline: 0.25)
-Empirical Log Loss: 0.7192 (Uniform Baseline: 0.6931)
+Empirical Log Loss: 0.7193 (Uniform Baseline: 0.6931)
 Calibration Reliability Index: DISPERSION_OBSERVED
 
 --- ERROR CATEGORY DIAGNOSIS ---
   - ALTERNATION_BREAK: 36
   - EQUILIBRIUM_FLIP: 14
-  - TRANSITION_DRIFT: 90
+  - TRANSITION_DRIFT: 91
 
 --- SCIENTIFIC DATA INTEGRITY NOTICE ---
 All metrics computed solely on verified settled draw results without future lookahead.
