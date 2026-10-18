@@ -1,8 +1,8 @@
 # ==========================================================================
 # 51 GAME WINGO 1-MINUTE OFFICIAL HISTORICAL DATA LEDGER
 # Schema: round_id=PERIOD | timestamp=TIMESTAMP | result=NUM:SIZE:COLOR | source=SOURCE
-# Generated: 2026-10-18T16:22:15.504Z
-# Total Unique Settled Rounds: 346
+# Generated: 2026-10-18T16:25:18.602Z
+# Total Unique Settled Rounds: 349
 # ==========================================================================
 round_id=20261016100010553 | timestamp=2026-10-16 09:22:33 | result=3:Small:Green | source=game_api
 round_id=20261016100010554 | timestamp=2026-10-16 09:22:33 | result=9:Big:Green | source=game_api
@@ -350,3 +350,6 @@ round_id=20261018100010979 | timestamp=2026-10-18 16:19:03 | result=1:Small:Gree
 round_id=20261018100010980 | timestamp=2026-10-18 16:20:03 | result=1:Small:Green | source=game_api
 round_id=20261018100010981 | timestamp=2026-10-18 16:20:59 | result=6:Big:Red | source=game_api
 round_id=20261018100010982 | timestamp=2026-10-18 16:22:05 | result=6:Big:Red | source=game_api
+round_id=20261018100010983 | timestamp=2026-10-18 16:23:02 | result=5:Big:Green + Violet | source=game_api
+round_id=20261018100010984 | timestamp=2026-10-18 16:24:01 | result=5:Big:Green + Violet | source=game_api
+round_id=20261018100010985 | timestamp=2026-10-18 16:25:02 | result=0:Small:Red + Violet | source=game_api
