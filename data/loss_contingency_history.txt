@@ -1,9 +1,10 @@
 # ==========================================================================
 # 51 GAME WINGO LOSS-CONTINGENCY PRECOMPUTED SNAPSHOT JOURNAL
 # Precomputed 10-branch outcome analysis generated prior to round settlement
-# Generated: 2026-10-18T16:22:16.602Z
+# Generated: 2026-10-18T16:23:25.702Z
 # Total Precomputed Snapshots Recorded: 500
 # ==========================================================================
+snapshot_id=SNAP_20261018100010983_1792340582405 | current_round=20261018100010983 | target_next_round=20261018100010984 | bet_category=BIG_SMALL | bet_option=Small | active_branch_digit=5 | win_branches=5 | loss_branches=5 | is_stale=NO | model_version=v1.0-APFE | created_at=2026-10-18T16:23:02.405Z | settled_at=2026-10-18 16:23:02
 snapshot_id=SNAP_20261018100010982_1792340526402 | current_round=20261018100010982 | target_next_round=20261018100010983 | bet_category=BIG_SMALL | bet_option=Small | active_branch_digit=6 | win_branches=5 | loss_branches=5 | is_stale=NO | model_version=v1.0-APFE | created_at=2026-10-18T16:22:06.402Z | settled_at=2026-10-18 16:22:06
 snapshot_id=SNAP_20261018100010981_1792340460502 | current_round=20261018100010981 | target_next_round=20261018100010982 | bet_category=BIG_SMALL | bet_option=Big | active_branch_digit=6 | win_branches=5 | loss_branches=5 | is_stale=NO | model_version=v1.0-APFE | created_at=2026-10-18T16:21:00.502Z | settled_at=2026-10-18 16:21:00
 snapshot_id=SNAP_20261018100010980_1792340360071 | current_round=20261018100010980 | target_next_round=20261018100010981 | bet_category=BIG_SMALL | bet_option=Big | active_branch_digit=1 | win_branches=5 | loss_branches=5 | is_stale=NO | model_version=v1.0-APFE | created_at=2026-10-18T16:19:20.072Z | settled_at=2026-10-18 16:20:04
@@ -503,4 +504,3 @@ snapshot_id=SNAP_20261018100010611_1792318246337 | current_round=202610181000106
 snapshot_id=SNAP_20261018100010611_1792318236328 | current_round=20261018100010611 | target_next_round=20261018100010612 | bet_category=BIG_SMALL | bet_option=Small | active_branch_digit=AWAITING_SETTLEMENT | win_branches=5 | loss_branches=5 | is_stale=NO | model_version=v1.0-APFE | created_at=2026-10-18T10:10:36.328Z | settled_at=PENDING
 snapshot_id=SNAP_20261018100010611_1792318226318 | current_round=20261018100010611 | target_next_round=20261018100010612 | bet_category=BIG_SMALL | bet_option=Small | active_branch_digit=AWAITING_SETTLEMENT | win_branches=5 | loss_branches=5 | is_stale=NO | model_version=v1.0-APFE | created_at=2026-10-18T10:10:26.318Z | settled_at=PENDING
 snapshot_id=SNAP_20261018100010611_1792318216335 | current_round=20261018100010611 | target_next_round=20261018100010612 | bet_category=BIG_SMALL | bet_option=Small | active_branch_digit=AWAITING_SETTLEMENT | win_branches=5 | loss_branches=5 | is_stale=NO | model_version=v1.0-APFE | created_at=2026-10-18T10:10:16.335Z | settled_at=PENDING
-snapshot_id=SNAP_20261018100010611_1792318208862 | current_round=20261018100010611 | target_next_round=20261018100010612 | bet_category=BIG_SMALL | bet_option=Small | active_branch_digit=AWAITING_SETTLEMENT | win_branches=5 | loss_branches=5 | is_stale=NO | model_version=v1.0-APFE | created_at=2026-10-18T10:10:08.862Z | settled_at=PENDING
