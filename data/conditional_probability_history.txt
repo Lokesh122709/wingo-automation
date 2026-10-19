@@ -1,9 +1,10 @@
 # ==========================================================================
 # 51 GAME WINGO CONDITIONAL PROBABILITY & LOSS-CONTINGENCY AUDIT LEDGER
 # Post-settlement activated branch conditional probabilities & edge validation
-# Generated: 2026-10-19T05:44:59.974Z
-# Total Evaluated Branches: 218
+# Generated: 2026-10-19T05:45:59.963Z
+# Total Evaluated Branches: 219
 # ==========================================================================
+round_id=20261019100010346 | target_round=20261019100010347 | prior_digit=0 | prior_size=Small | bet_result=WIN | next_predicted_size=Big | next_big_prob=0.5125 | next_small_prob=0.4875 | sample_support=39 | brier_vs_baseline=0.0063 | predictive_advantage=NO | timestamp=2026-10-19 05:45:59
 round_id=20261019100010345 | target_round=20261019100010346 | prior_digit=3 | prior_size=Small | bet_result=WIN | next_predicted_size=Big | next_big_prob=0.514 | next_small_prob=0.486 | sample_support=35 | brier_vs_baseline=0.007 | predictive_advantage=NO | timestamp=2026-10-19 05:44:59
 round_id=20261019100010344 | target_round=20261019100010345 | prior_digit=3 | prior_size=Small | bet_result=LOSS | next_predicted_size=Big | next_big_prob=0.5283 | next_small_prob=0.4717 | sample_support=34 | brier_vs_baseline=0.0142 | predictive_advantage=NO | timestamp=2026-10-19 05:43:59
 round_id=20261019100010343 | target_round=20261019100010344 | prior_digit=2 | prior_size=Small | bet_result=LOSS | next_predicted_size=Big | next_big_prob=0.5159 | next_small_prob=0.4841 | sample_support=31 | brier_vs_baseline=0.0079 | predictive_advantage=NO | timestamp=2026-10-19 05:42:59
