@@ -1,8 +1,8 @@
 # ==========================================================================
 # 51 GAME WINGO MISTAKE DETECTOR & ERROR DIAGNOSIS JOURNAL
 # Schema: round_id=PERIOD | predicted=PRED | actual=DRAW | error_category=CAT | root_cause=CAUSE | proposed_correction=FIX | validation=CONFIRMED_LOSS | model_version=v2.4-APFE
-# Generated: 2026-10-19T04:05:59.490Z
-# Total Logged Mistakes: 63
+# Generated: 2026-10-19T04:07:59.487Z
+# Total Logged Mistakes: 64
 # ==========================================================================
 round_id=20261016100010610 | predicted=Big | actual=1:Small:Green | error_category=ALTERNATION_BREAK | root_cause=Assumed alternating wave continuation instead of regime stabilization | proposed_correction=Require minimum 4 alternating cycles before asserting alternation bias. | validation=CONFIRMED_LOSS | model_version=v2.4-APFE | timestamp=2026-10-16T10:10:03.276Z
 round_id=20261016100010611 | predicted=Small | actual=8:Big:Red | error_category=ALTERNATION_BREAK | root_cause=Assumed alternating wave continuation instead of regime stabilization | proposed_correction=Require minimum 4 alternating cycles before asserting alternation bias. | validation=CONFIRMED_LOSS | model_version=v2.4-APFE | timestamp=2026-10-16T10:11:03.288Z
@@ -67,3 +67,4 @@ round_id=20261018100010676 | predicted=Small | actual=9:Big:Green | error_catego
 round_id=20261018100010677 | predicted=Small | actual=8:Big:Red | error_category=TRANSITION_DRIFT | root_cause=Stochastic state transition | proposed_correction=Increase Laplace smoothing alpha to dampen transition weight. | validation=CONFIRMED_LOSS | model_version=v2.4-APFE | timestamp=2026-10-18T11:16:58.152Z
 round_id=20261018100010679 | predicted=Small | actual=8:Big:Red | error_category=TRANSITION_DRIFT | root_cause=Stochastic state transition | proposed_correction=Increase Laplace smoothing alpha to dampen transition weight. | validation=CONFIRMED_LOSS | model_version=v2.4-APFE | timestamp=2026-10-18T11:19:03.866Z
 round_id=20261019100010246 | predicted=Small | actual=8:Big:Red | error_category=TRANSITION_DRIFT | root_cause=Stochastic state transition | proposed_correction=Increase Laplace smoothing alpha to dampen transition weight. | validation=CONFIRMED_LOSS | model_version=v2.4-APFE | timestamp=2026-10-19T04:05:59.369Z
+round_id=20261019100010248 | predicted=Small | actual=5:Big:Green + Violet | error_category=EQUILIBRIUM_FLIP | root_cause=Premature mean-reversion call against active cluster run | proposed_correction=Wait for change-point detector confirmation before fading persistent clusters. | validation=CONFIRMED_LOSS | model_version=v2.4-APFE | timestamp=2026-10-19T04:07:59.448Z
