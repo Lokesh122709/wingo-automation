@@ -1,8 +1,8 @@
 # ==========================================================================
 # 51 GAME WINGO 1-MINUTE OFFICIAL HISTORICAL DATA LEDGER
 # Schema: round_id=PERIOD | timestamp=TIMESTAMP | result=NUM:SIZE:COLOR | source=SOURCE
-# Generated: 2026-10-21T17:27:06.343Z
-# Total Unique Settled Rounds: 1601
+# Generated: 2026-10-21T17:28:01.726Z
+# Total Unique Settled Rounds: 1600
 # ==========================================================================
 round_id=20261016100010553 | timestamp=2026-10-16 09:22:33 | result=3:Small:Green | source=game_api
 round_id=20261016100010554 | timestamp=2026-10-16 09:22:33 | result=9:Big:Green | source=game_api
@@ -1592,16 +1592,15 @@ round_id=20261019100010599 | timestamp=2026-10-19 09:59:06 | result=8:Big:Red | 
 round_id=20261019100010600 | timestamp=2026-10-19 10:00:06 | result=9:Big:Green | source=game_api
 round_id=20261019100010601 | timestamp=2026-10-19 10:01:06 | result=8:Big:Red | source=game_api
 round_id=20261019100010602 | timestamp=2026-10-19 10:02:01 | result=7:Big:Green | source=game_api
-round_id=20261019100010603 | timestamp=2026-10-19 10:03:04 | result=2:Small:Red | source=game_api
-round_id=20261021100011036 | timestamp=2026-10-21 17:25:19 | result=6:Big:Red | source=game_api
-round_id=20261021100011037 | timestamp=2026-10-21 17:25:19 | result=8:Big:Red | source=game_api
-round_id=20261021100011038 | timestamp=2026-10-21 17:25:19 | result=4:Small:Red | source=game_api
-round_id=20261021100011039 | timestamp=2026-10-21 17:25:19 | result=5:Big:Green + Violet | source=game_api
-round_id=20261021100011040 | timestamp=2026-10-21 17:25:19 | result=7:Big:Green | source=game_api
-round_id=20261021100011041 | timestamp=2026-10-21 17:25:19 | result=0:Small:Red + Violet | source=game_api
-round_id=20261021100011042 | timestamp=2026-10-21 17:25:19 | result=6:Big:Red | source=game_api
-round_id=20261021100011043 | timestamp=2026-10-21 17:25:19 | result=2:Small:Red | source=game_api
-round_id=20261021100011044 | timestamp=2026-10-21 17:25:19 | result=9:Big:Green | source=game_api
-round_id=20261021100011045 | timestamp=2026-10-21 17:25:19 | result=9:Big:Green | source=game_api
-round_id=20261021100011046 | timestamp=2026-10-21 17:26:03 | result=5:Big:Green + Violet | source=game_api
-round_id=20261021100011047 | timestamp=2026-10-21 17:27:03 | result=1:Small:Green | source=game_api
+round_id=20261021100011037 | timestamp=2026-10-21 17:26:51 | result=8:Big:Red | source=game_api
+round_id=20261021100011038 | timestamp=2026-10-21 17:26:51 | result=4:Small:Red | source=game_api
+round_id=20261021100011039 | timestamp=2026-10-21 17:26:51 | result=5:Big:Green + Violet | source=game_api
+round_id=20261021100011040 | timestamp=2026-10-21 17:26:51 | result=7:Big:Green | source=game_api
+round_id=20261021100011041 | timestamp=2026-10-21 17:26:51 | result=0:Small:Red + Violet | source=game_api
+round_id=20261021100011042 | timestamp=2026-10-21 17:26:51 | result=6:Big:Red | source=game_api
+round_id=20261021100011043 | timestamp=2026-10-21 17:26:51 | result=2:Small:Red | source=game_api
+round_id=20261021100011044 | timestamp=2026-10-21 17:26:51 | result=9:Big:Green | source=game_api
+round_id=20261021100011045 | timestamp=2026-10-21 17:26:51 | result=9:Big:Green | source=game_api
+round_id=20261021100011046 | timestamp=2026-10-21 17:26:51 | result=5:Big:Green + Violet | source=game_api
+round_id=20261021100011047 | timestamp=2026-10-21 17:27:01 | result=1:Small:Green | source=game_api
+round_id=20261021100011048 | timestamp=2026-10-21 17:28:01 | result=7:Big:Green | source=game_api
