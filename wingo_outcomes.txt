@@ -1,8 +1,9 @@
 # ==============================================================================
-# 51 GAME WINGO VERIFIED REAL OUTCOMES LEDGER (100% AUTHENTIC / NO SYNTHETIC)
-# Total Verified Genuine Outcomes: 1598
-# Range: 20261016100010553 to 20261021100011055
-# Last Synced At: 2026-10-21T17:35:46.200Z
+# 51 GAME WINGO VERIFIED REAL OUTCOMES LEDGER (ON-VISIT BULK SYNC)
+# Total Verified Genuine Outcomes: 1605
+# Latest Settled Round: #20261021100011062 (Drawn: 5 | Big | Green + Violet)
+# Trigger: Website Opened by User (BROWSER_PAGE_OPEN)
+# Flushed At: 2026-10-21T17:42:51.725Z
 # Format: round_id | number | size | color | timestamp
 # ==============================================================================
 20261016100010553 | 3 | Small | Green | 2026-10-16 09:22:33
@@ -1603,3 +1604,10 @@
 20261021100011053 | 9 | Big | Green | 2026-10-21 17:33:00
 20261021100011054 | 7 | Big | Green | 2026-10-21 17:34:47
 20261021100011055 | 8 | Big | Red | 2026-10-21 17:34:57
+20261021100011056 | 4 | Small | Red | 2026-10-21 17:35:57
+20261021100011057 | 9 | Big | Green | 2026-10-21 17:36:57
+20261021100011058 | 7 | Big | Green | 2026-10-21 17:39:16
+20261021100011059 | 6 | Big | Red | 2026-10-21 17:39:16
+20261021100011060 | 9 | Big | Green | 2026-10-21 17:40:06
+20261021100011061 | 2 | Small | Red | 2026-10-21 17:41:06
+20261021100011062 | 5 | Big | Green + Violet | 2026-10-21 17:42:06
